@@ -4063,7 +4063,7 @@ The setting only applies for new messages, the already shown ones will retain th
     </message>
     <message>
         <source>Misc.</source>
-        <translation>Разное.</translation>
+        <translation>Прочее</translation>
     </message>
     <message>
         <source>Number of users that will trigger message limiting functionality.</source>
@@ -7889,7 +7889,7 @@ You can register them again.</source>
     </message>
     <message>
         <source>&amp;RegEx</source>
-        <translation>&amp;RegEx</translation>
+        <translation>&amp;Регулярные выражения</translation>
     </message>
     <message>
         <source>&amp;Channels</source>
@@ -8297,7 +8297,7 @@ An access token is a text string, which can be used as a password for very simpl
     </message>
     <message>
         <source>Years</source>
-        <translation>Лет:</translation>
+        <translation>Лет</translation>
     </message>
     <message>
         <source>Inactive for</source>
